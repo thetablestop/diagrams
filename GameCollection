@@ -1,28 +1,28 @@
-<mxfile host="www.draw.io" modified="2019-11-26T13:07:55.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="pbushKBXmmkvvJGOW9Q-" version="12.3.1" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-26T13:08:26.296Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="1TS9d1OCtmRE0OJ1MFFY" version="12.3.1" type="github" pages="1">
   <diagram id="Be-Ax_pg3TJEci35lFW-" name="Page-1">
     <mxGraphModel dx="2591" dy="1549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="1ExT2B00rFR1c8Ou9DR4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZcpP1VhZbiK2ygFInKhz-1" target="1ExT2B00rFR1c8Ou9DR4-1">
+        <mxCell id="1ExT2B00rFR1c8Ou9DR4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ZcpP1VhZbiK2ygFInKhz-1" target="1ExT2B00rFR1c8Ou9DR4-1" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="ZcpP1VhZbiK2ygFInKhz-1" value="html-scraper" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="305" y="310" width="130" height="70" as="geometry"/>
+          <mxGeometry x="-565" y="-310" width="130" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="ZcpP1VhZbiK2ygFInKhz-2" value="URL" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZcpP1VhZbiK2ygFInKhz-6" target="ZcpP1VhZbiK2ygFInKhz-9" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="195" as="targetPoint"/>
+            <mxPoint x="-660" y="-425" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZcpP1VhZbiK2ygFInKhz-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZcpP1VhZbiK2ygFInKhz-6" target="ZcpP1VhZbiK2ygFInKhz-10" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="65" y="290" as="targetPoint"/>
+            <mxPoint x="-805" y="-330" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZcpP1VhZbiK2ygFInKhz-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" parent="1" source="ZcpP1VhZbiK2ygFInKhz-6" target="ZcpP1VhZbiK2ygFInKhz-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="80" y="250" as="targetPoint"/>
+            <mxPoint x="-790" y="-370" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZcpP1VhZbiK2ygFInKhz-5" value="Index" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" parent="ZcpP1VhZbiK2ygFInKhz-4" vertex="1" connectable="0">
@@ -31,7 +31,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZcpP1VhZbiK2ygFInKhz-6" value="game-poller" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry y="150" width="130" height="70" as="geometry"/>
+          <mxGeometry x="-870" y="-470" width="130" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="ZcpP1VhZbiK2ygFInKhz-7" value="Game&lt;br&gt;Attribute" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="ZcpP1VhZbiK2ygFInKhz-9" target="ZcpP1VhZbiK2ygFInKhz-1" edge="1">
           <mxGeometry relative="1" as="geometry"/>
@@ -40,19 +40,19 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="ZcpP1VhZbiK2ygFInKhz-9" value="game-processor" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="290" y="150" width="160" height="70" as="geometry"/>
+          <mxGeometry x="-580" y="-470" width="160" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="ZcpP1VhZbiK2ygFInKhz-10" value="Data" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="320" y="10" width="100" height="60" as="geometry"/>
+          <mxGeometry x="-550" y="-610" width="100" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="ZcpP1VhZbiK2ygFInKhz-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZcpP1VhZbiK2ygFInKhz-12" target="ZcpP1VhZbiK2ygFInKhz-6" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="ZcpP1VhZbiK2ygFInKhz-12" value="Scheduler" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="15" width="100" height="60" as="geometry"/>
+          <mxGeometry x="-855" y="-620" width="100" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="1ExT2B00rFR1c8Ou9DR4-1" value="Puppeteer" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
-          <mxGeometry x="540" y="315" width="100" height="60" as="geometry"/>
+        <mxCell id="1ExT2B00rFR1c8Ou9DR4-1" value="Puppeteer" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1" vertex="1">
+          <mxGeometry x="-330" y="-305" width="100" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
